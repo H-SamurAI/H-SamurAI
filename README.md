@@ -30,8 +30,7 @@
 </div>
 
 ### 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://lottie.host/ea5e54dc-03b9-4df0-aba8-c932125a6576/RdX81SDvYL.json" background="#fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+![Lottie Animation](https://lottie.host/embed/ea5e54dc-03b9-4df0-aba8-c932125a6576/RdX81SDvYL.json)
 ###
 
 
